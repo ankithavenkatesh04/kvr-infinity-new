@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Primary Brand Colors */
+    --primary-background: #a81717;
+    --primary-foreground: #ffffff;
+    --primary-light: #d83434;
+    --primary-dark: #812c2c;
+    --primary-darker: #783c3c;
+
+    /* Secondary Colors */
+    --secondary-background: #ffffff;
+    --secondary-foreground: #000000;
+    --secondary-muted: #3e3e3e;
+    --secondary-light: #666666;
+
+    /* Background Colors */
+    --bg-main: #ffffff;
+    --bg-overlay-light: #a8171766;
+    --bg-overlay-medium: #a8171799;
+    --bg-overlay-dark: #a81717b2;
+    --bg-accent-light: #d834344c;
+    --bg-accent-medium: #d8343499;
+    --bg-neutral: #d9d9d9;
+
+    /* Text Colors */
+    --text-primary: #000000;
+    --text-secondary: #3e3e3e;
+    --text-muted: #666666;
+    --text-accent: #a81717;
+    --text-inverse: #ffffff;
+
+    /* Border Colors */
+    --border-primary: #000000;
+    --border-accent: #a81717;
+    --border-neutral: #d9d9d9;
+
+    /* Typography Variables */
+    --font-size-xs: 10px;
+    --font-size-sm: 12px;
+    --font-size-base: 14px;
+    --font-size-md: 16px;
+    --font-size-lg: 18px;
+    --font-size-xl: 24px;
+    --font-size-2xl: 36px;
+    --font-size-3xl: 48px;
+
+    /* Font Weight Variables */
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+
+    /* Line Height Variables */
+    --line-height-xs: 12px;
+    --line-height-sm: 13px;
+    --line-height-base: 14px;
+    --line-height-md: 15px;
+    --line-height-lg: 16px;
+    --line-height-xl: 17px;
+    --line-height-2xl: 20px;
+    --line-height-3xl: 21px;
+    --line-height-4xl: 22px;
+    --line-height-5xl: 29px;
+    --line-height-6xl: 30px;
+    --line-height-7xl: 44px;
+    --line-height-8xl: 58px;
+
+    /* Spacing Variables */
+    --spacing-xs: 4px;
+    --spacing-sm: 6px;
+    --spacing-base: 8px;
+    --spacing-md: 10px;
+    --spacing-lg: 12px;
+    --spacing-xl: 14px;
+    --spacing-2xl: 16px;
+    --spacing-3xl: 18px;
+    --spacing-4xl: 20px;
+    --spacing-5xl: 22px;
+    --spacing-6xl: 24px;
+    --spacing-7xl: 26px;
+    --spacing-8xl: 28px;
+    --spacing-9xl: 30px;
+    --spacing-10xl: 32px;
+
+    /* Border Radius Variables */
+    --radius-sm: 5px;
+    --radius-base: 10px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-xl: 24px;
+    --radius-2xl: 30px;
+    --radius-3xl: 32px;
+    --radius-4xl: 42px;
+    --radius-5xl: 56px;
+    --radius-6xl: 70px;
+    --radius-7xl: 80px;
+
+    /* Component-specific Colors */
+    --header-text: #000000;
+    --button-primary-bg: #a81717;
+    --button-primary-text: #ffffff;
+    --button-secondary-bg: #ffffff;
+    --button-secondary-text: #000000;
+    --button-muted-text: #666666;
+    --footer-link-text: #ffffff;
+    --line-accent-bg: #a81717;
+  }
+}
