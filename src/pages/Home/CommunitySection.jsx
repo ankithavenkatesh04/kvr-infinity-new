@@ -205,7 +205,7 @@ export const CommunitySection = () => {
         {/* Join us now button */}
         <div className="absolute w-[180px] h-14 top-[390px] left-[876px]">
           <a
-            href="https://whatsapp.com/channel/0029Va5CZ8EFMqrWbQGahy3y"
+            href="https://wa.me/918431993303?text=Hello%20I%20would%20like%20to%20know%20more"
             target="_blank"
             rel="noopener noreferrer"
           >

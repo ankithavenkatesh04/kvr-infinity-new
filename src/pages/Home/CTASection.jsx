@@ -6,9 +6,10 @@ const CTASection = () => {
     <section className="w-full bg-white pt-8 pb-16 lg:pt-[20px] lg:pb-[100px]">
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center text-center gap-6 max-w-4xl mx-auto">
-        <h2 className="text-4xl md:text-5xl font-bold leading-tight text-black whitespace-nowrap">
-          Get Started with <span className="text-[#a81717]">Free Learning Courses</span>
+        <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight text-black">
+          Get Started with <span className="text-[#a81717]">Free Courses</span>
         </h2>
+
 
 
           {/* Description */}

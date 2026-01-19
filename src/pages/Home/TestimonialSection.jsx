@@ -7,12 +7,12 @@ const TestimonialSection = () => {
   const touchEndXRef = useRef(0);
 
   const testimonials = [
-    { 
+      { 
       id: 1, 
       name: "Preeti A", 
       location: "AIT College, Andhra Pradesh", 
       image: "/images/testi2.jpeg", 
-      message: "The referral system is amazing! I earned ₹2000 amazing! I earned ₹2015. Plus, they got access to great courses — win-win!", 
+      message: "Thanks to the ATS-friendly resume guidance, I landed multiple interview calls and improved my chances of securing my dream job!", 
       linkedin: "https://www.linkedin.com/in/preethi0610/" // 🔗 Replace with actual LinkedIn URL
     },
     { 

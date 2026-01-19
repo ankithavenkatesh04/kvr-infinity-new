@@ -71,11 +71,11 @@ export const FooterSection = () => {
                   src="https://c.animaapp.com/mfm52zfyrgtMVA/img/group-222.png"
                 />
                 <div className="font-medium text-white text-sm">
-                  +91 8106 147 247
+                  +91 8431993303
                 </div>
               </div>
               <div className="font-medium text-white text-sm">
-                CIN : U72900AP2019PTC113696
+                    +91 701956801
               </div>
             </div>
           </div>

@@ -8,7 +8,6 @@ import CourseSection from './CourseSection';
 import InternshipSection from './InternshipSection';
 import CommunitySection from './CommunitySection';
 import TestimonialSection from './TestimonialSection';
-import PartnershipSection from './PartnershipSection';
 import FAQSection from './FAQSection';
 import CTASection from './CTASection';
 
@@ -34,7 +33,6 @@ const Home = () => {
           <InternshipSection />
           <CommunitySection />
           <TestimonialSection />
-          <PartnershipSection />
           <FAQSection />
           <CTASection />
         </main>
@@ -43,7 +41,7 @@ const Home = () => {
 
       {/* Floating WhatsApp Contact Us Button */}
       <a
-        href="https://wa.me/918106147247?text=Hello%20I%20would%20like%20to%20know%20more"
+        href="https://wa.me/918431993303?text=Hello%20I%20would%20like%20to%20know%20more"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 border-2 border-[#A71818] bg-white text-black font-semibold 
